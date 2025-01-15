@@ -27,8 +27,8 @@ const Navbar = () => {
         <nav className='flex justify-between mx-8 ml-20 mt-6'>
           <Link to={"/"}>
             <div className="logo">
-              <img className='inline-block mr-4' src="" alt="logo" />
-              <span className='font-extrabold'>your dream job</span>
+              <img className='h-12' src="logo.png" alt="logo" />
+              {/* <span className='font-extrabold'>your dream job</span> */}
             </div>
           </Link>
           <div className="content">

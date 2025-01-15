@@ -14,11 +14,11 @@ const Home = () => {
     <>
     <div className="frontpage flex">
     <div className="left ml-4 w-3/5">
-     <div className=" w-3/4  ml-24 mt-6 ">
+     <div className=" w-3/4  ml-20 mt-6 ">
       <h1 className="text-7xl font-medium leading-snug">Unlock Your </h1>
       <h1 className="text-7xl font-medium leading-snug "><span className='text-pink-400'> Career</span>
       <span className='text-pink-400'> Potential </span>
-       With PravPath</h1>
+       With Pravasi</h1>
       </div>
       <div className="mt-2 ml-20 w-3/4 font-medium text-gray-500">
         Discover Opporutunities,Connect with Employers, and Elevate Your Professional Journey
